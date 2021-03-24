@@ -1,0 +1,26 @@
+{
+  "name": "sweetalert-hook",
+  "version": "1.0.0",
+  "description": "Custom react hook for sweetalert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsflow/sweetalert-hook.git"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "hooks",
+    "sweetalert",
+    "alert"
+  ],
+  "author": "Stevan Aji Areanoutika <stevanadjie@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marsflow/sweetalert-hook/issues"
+  },
+  "homepage": "https://github.com/marsflow/sweetalert-hook#readme"
+}
